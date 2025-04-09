@@ -1,0 +1,25 @@
+body {
+    background: #00000e;
+    color: #ccccd5;
+}
+
+div {
+    background: #000030;
+    border-radius: 30px;
+    margin: 30px;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    box-shadow: 3px 3px 10px;
+    border-radius: 50px;
+}
+
